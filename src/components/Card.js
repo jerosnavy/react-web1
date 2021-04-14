@@ -10,34 +10,34 @@ function Card() {
                 <div className='cards__wraper'>
                     <ul className='cards__items'>
                         <CardItem
-                        src='images/img-9.jpg'
-                        text='Explore the hidden waterfall deep inside the Amazon jungle'
+                        src='https://res.cloudinary.com/e-shopping-snavy/image/upload/v1618386490/sea3_qua9nc.jpg'
+                        text='Explore the beautiful place in Ocean around the world'
                         label='Adventure'
                         path='/services'
                         />
                         <CardItem
-                        src='images/img-2.jpg'
-                        text='Travel through the Islands of Bali in a Private Cruise'
+                        src='https://res.cloudinary.com/e-shopping-snavy/image/upload/v1618386494/maunt1_vxa9nw.jpg'
+                        text='Travel to the Kalisimbi Mountain in Northern Province of Rwanda'
                         label='Luxury'
                         path='/services'
                         />
                     </ul>
                     <ul className='cards__items'>
                         <CardItem
-                        src='images/img-3.jpg'
-                        text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
+                        src='https://res.cloudinary.com/e-shopping-snavy/image/upload/v1618386493/animal2_fbxfaa.jpg'
+                        text='Visit Akagera Park and see the beautifull rare animals in Rwanda'
                         label='Mystery'
                         path='/services'
                         />
                         <CardItem
-                        src='images/img-4.jpg'
-                        text='Experience Football on Top of the Himilayan Mountains'
+                        src='https://res.cloudinary.com/e-shopping-snavy/image/upload/v1618387810/hotspring1_imzysm.jpg'
+                        text='Explore beautifull HotSpring'
                         label='Adventure'
                         path='/products'
                         />
                         <CardItem
-                        src='images/img-8.jpg'
-                        text='Ride through the Sahara Desert on a guided camel tour'
+                        src='https://res.cloudinary.com/e-shopping-snavy/image/upload/v1618387818/waterfall1_toqtli.jpg'
+                        text='Explore beautifull waterfall in Rwanda'
                         label='Adrenaline'
                         path='/sign-up'
                         />
