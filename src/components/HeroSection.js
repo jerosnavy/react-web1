@@ -6,7 +6,7 @@ import './HeroSection.css'
 function HeroSection() {
     return (
         <div className='hero-container'>
-            <video src='https://res.cloudinary.com/e-shopping-snavy/video/upload/v1618300671/number_collection011_preview_rx6eol.mp4' autoPlay loop muted/>
+            <img src='https://res.cloudinary.com/e-shopping-snavy/image/upload/v1618386490/animal1_qimpr3.jpg' alt='snavys logo' />
             <h1>ADVENTURE AWAITS</h1>
             <p>what are you waiting for?</p>
             <div className='hero-btns'>
